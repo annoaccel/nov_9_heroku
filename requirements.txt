@@ -99,7 +99,7 @@ watchdog==2.1.9
 Werkzeug==2.2.2
 win-inet-pton 
 wincertstore==0.2
-wrapt==1.14.1
+wrapt==1.12.1
 yacs==0.1.8
 yapf==0.32.0
 zipp==3.10.0
