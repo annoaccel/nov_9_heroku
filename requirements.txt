@@ -83,7 +83,7 @@ tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
 tensorflow
 tensorflow-estimator
-tensorflow-gpu==1.15.0
+tensorflow-gpu
 termcolor==2.1.0
 toml==0.10.2
 toolz==0.12.0
