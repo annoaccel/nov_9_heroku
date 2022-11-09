@@ -77,9 +77,9 @@ smmap==5.0.0
 soupsieve==2.3.2.post1
 streamlit==1.14.0
 tb-nightly==2.11.0a20221107
-tensorboard==1.15.0
-tensorboard-data-server==0.6.1
-tensorboard-plugin-wit==1.8.1
+tensorboard
+tensorboard-data-server
+tensorboard-plugin-wit
 tensorflow
 tensorflow-estimator
 tensorflow-gpu
